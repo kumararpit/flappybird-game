@@ -1,6 +1,5 @@
 var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
-ctx.font="30px Arial";
 var bird = new Image();
 var bg = new Image();
 var fg = new Image();
